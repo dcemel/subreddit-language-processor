@@ -1,3 +1,4 @@
 requests
 textblob
-nltk
+pytest
+httpretty
